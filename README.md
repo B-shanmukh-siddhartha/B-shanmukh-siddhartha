@@ -43,7 +43,7 @@
 
 ### 🔹 AI Intern – Infosys Springboard
 - Worked on Artificial Intelligence concepts and practical applications
-- Worked on project ""
+- Worked on project " Real-Time-AI-Sales-Call-Assistant-for-Enhanced-Conversation-Strategies"
 - Helped me in improving in presentation skills, Team working and time management
 
 ### 🔹 AI Web Developer Intern – INAmigos Foundation
