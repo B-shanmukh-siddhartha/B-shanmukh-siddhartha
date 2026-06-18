@@ -1,4 +1,4 @@
-# Hi 👋, I'm Shanmukha Siddhart
+# Hi 👋, I'm Shanmukha Siddhartha
 
 🎓 B.Tech 3rd Year Student  
 💻 Always eager to learn emerging technologies and improve my skills
@@ -39,23 +39,22 @@
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Internships
 
-### 🔹 Cardio Vascular Risk Prediction
-- Machine Learning-based healthcare prediction system
-- Ollama is used as explainable AI for reasoning the problem
-- An NLP layer (Tesseract) is used to extract info from reports
-- attained an accuracy of 89.2%
+### 🔹 AI Intern – Infosys Springboard
+- Worked on Artificial Intelligence concepts and practical applications
+- Worked on project ""
+- Helped me in improving in presentation skills, Team working and time management
 
-### 🔹 AI Sales Call Assistant
-- NLP-based sales conversation analysis
-- Sentiment and intent detection
-- Actionable sales recommendations
+### 🔹 AI Web Developer Intern – INAmigos Foundation
+- Developed AI-powered web solutions and user-focused applications
+- Worked on integrating modern web technologies with AI concepts
+- Contributed to real-world development tasks and collaborative projects
 
-### 🔹 Real-Time Financial Dashboard
-- Interactive dashboard for financial data visualization
-- Built using HTML, CSS, JavaScript, SQL, and Chart.js
-
+### 🔹 Salesforce Developer Intern – SmartBridge
+- Worked on Salesforce CRM platform and Trailhead modules
+- Completed Superbadges involving Flows, Automation, Security, and Data Management
+- Developed hands-on experience with Salesforce administration and development
 
 ---
 
@@ -68,17 +67,3 @@
 
 ⭐ MY MOTTO : Always learn, build, and keep improving.
 
-<!--
-**B-shanmukh-siddhartha/B-shanmukh-siddhartha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
